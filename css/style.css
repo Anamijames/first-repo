@@ -78,7 +78,7 @@ ul li{
     margin:0;
     left:0;
     top:0;
-    animation: animate 15s linear infinite;
+    animation: animate 5s infinite;
   }
 
   .main .slider img{
@@ -91,10 +91,6 @@ ul li{
     20%{Left :0}
     25%{Left : -100%}
     45%{Left : -100%}
-    50%{Left : -200%}
-    70%{Left : -200%}
-    75%{Left : -300%}
-    95%{Left : -400%}
   }
   .fa {
     padding: 20px;
